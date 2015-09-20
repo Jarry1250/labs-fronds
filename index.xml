@@ -1,0 +1,26 @@
+<fronds>
+	<frond>
+		<name>CheckWiki-0.xml</name>
+		<meta>CheckWiki fixes, low false positive rate</meta>
+	</frond>
+	<frond>
+		<name>CheckWiki-20.xml</name>
+		<meta>CheckWiki fixes, some false positives to be expected</meta>
+	</frond>
+	<frond>
+		<name>General-20.xml</name>
+		<meta>General fixes, some false positives to be expected</meta>
+	</frond>
+	<frond>
+		<name>WikiGnome.xml</name>
+		<meta>WikiGnome-type (almost) invisible edits</meta>
+	</frond>
+	<frond>
+		<name>Clutter.xml</name>
+		<meta>Euphemism, tautology and other superfluous language</meta>
+	</frond>
+	<frond>
+		<name>Stub cleanup</name>
+		<meta>Cleanup stub syntax in the template namespace</meta>
+	</frond>
+</fronds>	

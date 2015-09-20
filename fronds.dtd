@@ -1,0 +1,14 @@
+<!ELEMENT fronds (frond+)>
+<!ELEMENT frond (item*,name*,meta*)>
+<!ELEMENT item (find,replace,casesensitive,comment)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT meta (#PCDATA)>
+<!ELEMENT find (#PCDATA)>
+<!ELEMENT replace (#PCDATA)>
+<!ELEMENT casesensitive (#PCDATA)>
+<!ELEMENT comment (#PCDATA)>
+
+
+
+
+
